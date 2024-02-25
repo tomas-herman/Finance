@@ -38,6 +38,7 @@ This project requires Python and Jupyter Notebook. Ensure you have them installe
 This project can be used to:
 
 1. Analyze the impact of continuous or prepaid fees on investment growth over different period lengths and various expected returns based on the type of asset.
+2. Compare the czech state pension savings system with respect to low-cost passive ETFs based on saving ammount, state/employer contributions, fees and expected returns.
 
 
 ## Contributing
